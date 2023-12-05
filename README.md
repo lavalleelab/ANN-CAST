@@ -43,15 +43,16 @@ The Jupyter notebook Classifier (in R and Python) are simple tutorials for loadi
 
 
 Reference:
-1-Hay et. al, Experimental Hematology, 2018
 
-2-Li, Mengwei, et al. Nucleic acids research, 2022
+1) Hay et. al, Experimental Hematology, 2018
 
-3-Korsunsky, I., et al. Nat Methods, 2019 
+2) Li, Mengwei, et al. Nucleic acids research, 2022
 
-4-https://explore.data.humancellatlas.org/projects/cc95ff89-2e68-4a08-a234-480eca21ce79
+3) Korsunsky, I., et al. Nat Methods, 2019 
 
-5-https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/5.0/algorithms/overview
+4) https://explore.data.humancellatlas.org/projects/cc95ff89-2e68-4a08-a234-480eca21ce79
 
-6-https://bioconductor.org/packages/devel/bioc/vignettes/scDblFinder/inst/doc/scDblFinder.html
+5) https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/5.0/algorithms/overview
+
+6) https://bioconductor.org/packages/devel/bioc/vignettes/scDblFinder/inst/doc/scDblFinder.html
 
