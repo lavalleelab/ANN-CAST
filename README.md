@@ -40,7 +40,7 @@ For testing the optimal K to use, we randomly assigned at least 10% of cells per
 #### Final processing and reference data for classifier:
 We, then explored each cell-type individually and did a second round of filtering of cells (Megakaryocytes, pre-pDC, Intermediate EPCAM+ erythroblast, and Monocyte MHCIIHigh) that were clearly outside of their main clusters. This resulted in 195020 cells in our final object. We then created a subset object with 3000 cells per cell-types except for T/NK/Erythro cells where we picked around 750 cells per each of their sub categories (64326 cells). We also identified some cells in-between monocyte and cDC2 cells, which for now we have classified as MoDC.  This is the final labeled dataset used for training the classifier.  ***To Banafsheh: Did you keep the rest as your test set?***
 
-**Cell types annotation source**
+**Final cell type annotation**
 ![Screenshot](Model/img/fig4.png)
 
 
@@ -58,7 +58,7 @@ Jupyter notebooks (in R and Python) were prepared as simple tutorials for loadin
 
 
 ## Authors / Credits
-***In a lab github repo, its a good practice to add main contributors to each project. To Banafsheh: Add other contributors ***
+***In a lab github repo, its a good practice to add main contributors to each project. To Banafsheh: Add other contributors***
 
 - [Banafsheh Khakipoor](https://github.com/BanafshehKhaki)
 
