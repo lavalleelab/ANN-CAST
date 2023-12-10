@@ -10,7 +10,9 @@ We trained this classifier using  single cell RNA sequencing data generated from
 
  
 More details to be followed.
- 
+
+# How to cite 
+Please cite our preprint that will be available shortly.
  
 ## Authors / Credits
 
