@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/726190560.svg)](https://zenodo.org/doi/10.5281/zenodo.10476103)
+
 # AML Classifier
 
 Acute myeloid leukaemia (AML) is an aggressive cancer of hematopoietic stem/progenitor cells originating in the bone marrow. Single-cell RNA sequencing (scRNAseq) is increasingly used to unbiasedly characterize patient-derived AML cells to address a variety of biological questions. Annotation of these cells relies on expert-based curation which is time-consuming and not generalizable. There is thus an important need for an accurate and automated classification of cells derived from normal bone marrow or AML samples. To this end, we developed a neural network based classifier that successfully annotates these cells.
