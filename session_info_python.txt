@@ -1,0 +1,21 @@
+Python session_info
+-----
+anndata             0.10.5.post1
+matplotlib          3.8.2
+numpy               1.26.4
+pandas              2.1.4
+scanpy              1.9.6
+scipy               1.11.4
+seaborn             0.13.1
+session_info        1.0.0
+sklearn             1.0.2
+-----
+-----
+IPython             8.18.1
+jupyter_client      8.6.0
+jupyter_core        5.7.1
+jupyterlab          3.2.9
+-----
+Python 3.9.18 | packaged by conda-forge | (main, Aug 30 2023, 03:52:10) [Clang 15.0.7 ]
+macOS-14.5-x86_64-i386-64bit
+----
